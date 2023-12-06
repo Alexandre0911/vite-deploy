@@ -1,9 +1,9 @@
 export default [
     {
-        title: "Project N.1",
-        imgUrl: "./assets/dev-portfolio.jpg",
-        stack: ["TBD", "TBD", "TBD"],
-        link: ""
+        title: "Spotify Playlist Downloader",
+        imgUrl: "./assets/spotify-pl-downloader.jpg",
+        stack: ["Python"],
+        link: "https://github.com/Alexandre0911/spotify-playlist-downloader"
     },
 
     {
@@ -14,9 +14,9 @@ export default [
     },
 
     {
-        title: "Project N.3",
-        imgUrl: "./assets/dev-portfolio.jpg",
-        stack: ["TBD", "TBD", "TBD"],
-        link: ""
+        title: "Folder Synchronizer",
+        imgUrl: "./assets/folder-synchronizer.jpg",
+        stack: ["Python"],
+        link: "https://github.com/Alexandre0911/FolderSynchronizer"
     }
 ]

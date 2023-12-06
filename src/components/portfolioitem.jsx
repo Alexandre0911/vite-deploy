@@ -4,7 +4,7 @@ import React from "react"
 
 function PortfolioItem({title, imgUrl, stack, link}) {
     return (
-        <div className="border-2 border-stone-900 dark:border-white rounded-md overflow-hidden">
+        <a className="border-2 border-stone-900 dark:border-white rounded-md overflow-hidden" target="_blank" rel="noopener noreferrer" href={link}>
 
             <img src={imgUrl} className="w-full h-36 md:h-48 object-cover cursor-pointer"/>
 
@@ -21,7 +21,7 @@ function PortfolioItem({title, imgUrl, stack, link}) {
 
             </div>
 
-        </div>
+        </a>
     )
 }
 
