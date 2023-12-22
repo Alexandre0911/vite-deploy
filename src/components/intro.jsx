@@ -11,13 +11,14 @@ function Intro() {
             <p className="text-sm max-w-xl mb-6 font-bold">
                 I'm a back-end developer, I mostly code in Python but
                 I have some practice with JavaScript aswell.
-                I am currently trying to expand my horizons studying C++ & Java
+                I am currently trying to expand my horizons studying C++ & Rust
                 for back-end developing.<br/>
                 This website was built with the purpose of me trying out
                 JavaScript, React and Tailwind (which apparently, went great).<br/>
                 Right now, I am looking forward to try and solve everyday
                 problems and to automate simple/boring tasks until
-                I have enough experience to start developing games.
+                I have enough experience to start developing games and, finally,
+                achieve my dream of developing games.
             </p>
 
         </div>

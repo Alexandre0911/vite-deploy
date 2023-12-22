@@ -16,8 +16,17 @@ function Contact() {
                     <p>
                         Phone - (+351) 933 160 801
                     </p>
+
                     <p>
                         E-Mail - alexdias2206@proton.me
+                    </p>
+                    
+                    <p>
+                        LinkedIn - <a className="text-decoration-line: underline" href="https://www.linkedin.com/in/goncalo-meira/">Gonçalo Meira</a>
+                    </p>
+                    
+                    <p>
+                        GitHub - <a className="text-decoration-line: underline" href="https://github.com/Alexandre0911">Alexandre0911</a>
                     </p>
 
                 </section>

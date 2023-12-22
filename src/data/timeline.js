@@ -20,9 +20,10 @@ export default [
         but none of them were actual projects as I never had much creativity... \
         But this year, 2023, I thought I had finally found a Junior Developer \
         Job. I applied and they sent me an exercise. I would have to create a \
-        Folder Synchronizer either in Python or C++. I completed the project but, \
-        unfortunately, someone with a college degree got the job. No hard feelings, \
-        This made me learn how to use more things in my Python programs. And I use \
+        Folder Synchronizer either in Python or C++. I did not get the job as \
+        someone with better qualifications got it but this project made me research \
+        and learn some more about Python as I didn't have a goal for any of my previous \
+        projects. Even though I didn't think I would, I use \
         the Folder Synchronizer on my daily basis as it's very useful!",
     },
     
@@ -47,6 +48,6 @@ export default [
         Before starting this project, I had little knowledge of JavaScript, \
         much less of Vite. Creating this portfolio made me search about vite, \
         how to deploy it on github as a page, and how to use tailwind and react.",
-    },
+    }
     
 ]
